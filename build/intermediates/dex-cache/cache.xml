@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/huangxian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-0fd2a3b3ed91b9e75ab1923d97eaefa05a1f2845.jar" />
+    </item>
+    <item
+        jar="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-3adb3993fb3991abd80053cb5e4e669385e652df.jar" />
+    </item>
+    <item
+        jar="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-78b91be23717ceb8faa1b898a7b5f0a8c1abee18.jar" />
+    </item>
+    <item
+        jar="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-3a5fbb4a2bd2936bcaecce0ca068e7cdbd6745ee.jar" />
+    </item>
+    <item
+        jar="/Users/huangxian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-33b1ba5cfa3752da1b93977814aebb4ebeeccfd7.jar" />
+    </item>
+    <item
+        jar="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-563bcdff4459c10d3a7fcd14afb64169687b874a.jar" />
+    </item>
+    <item
+        jar="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-fd07d57345b5ee2d3c9a654b983d29a8ec68956b.jar" />
+    </item>
+    <item
+        jar="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-24fed64a28193c9f1b3154c9b7691deae6f7e195.jar" />
+    </item>
+    <item
+        jar="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-9a58b1c6336de1c28e2ed4de35ad69d1a9cb4fad.jar" />
+    </item>
+    <item
+        jar="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-396206faca64d4e589abdc096a7c1574a0b85f71.jar" />
+    </item>
+    <item
+        jar="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-e12daaf77c9b7e0d835ee5370f49b8de9f083f3b.jar" />
+    </item>
+
+</items>
