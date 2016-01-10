@@ -7,7 +7,7 @@ References:
     <string name="app_name">XYZ Reader</string>
     <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
 
-    <string name="action_feedback">Feedback</string>
+    <string name="action_feedback">Send feedback</string>
     <string name="action_help">Help</string>
     <string name="action_refresh">Refresh</string>
     <string name="action_settings">Settings</string>
@@ -20,6 +20,8 @@ References:
         <item>@string/action_help</item>
     </string-array>
 
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
     <string name="up">Up</string>
 
 </resources>
