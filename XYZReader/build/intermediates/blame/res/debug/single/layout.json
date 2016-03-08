@@ -156,6 +156,10 @@
         "source": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/src/main/res/layout/activity_article_detail.xml"
     },
     {
+        "merged": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/src/main/res/layout/toolbar.xml"
+    },
+    {
         "merged": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
     },

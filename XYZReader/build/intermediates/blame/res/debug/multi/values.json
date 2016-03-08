@@ -3132,14 +3132,7 @@
                     "endOffset": 40660
                 },
                 "from": {
-                    "file": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 801,
-                        "endColumn": 64,
-                        "endOffset": 861
-                    }
+                    "file": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -3151,14 +3144,7 @@
                     "endOffset": 40723
                 },
                 "from": {
-                    "file": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 738,
-                        "endColumn": 62,
-                        "endOffset": 796
-                    }
+                    "file": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -3255,7 +3241,15 @@
                     "endOffset": 41767
                 },
                 "from": {
-                    "file": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/src/main/res/values/styles.xml"
+                    "file": "/Users/huangxian/Repositories/Projapps/GitHub/xyzreader/XYZReader/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1263
+                    }
                 }
             },
             {
