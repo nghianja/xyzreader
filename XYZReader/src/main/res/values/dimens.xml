@@ -4,6 +4,8 @@
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
+    <dimen name="appbar_height">128dp</dimen>
+
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
@@ -12,4 +14,8 @@
     <dimen name="cardview_text_padding">16dp</dimen>
 
     <dimen name="nav_drawer_width">260dp</dimen>
+
+    <dimen name="expanded_start">48dp</dimen>
+    <dimen name="expanded_end">64dp</dimen>
+    <dimen name="expanded_bottom">32dp</dimen>
 </resources>
